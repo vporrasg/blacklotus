@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "nombre": "Stand tipo 1",
+        "tipo": "Stand",
+        "desc": "Optimiza tu espacio de trabajo con nuestro estante ajustable para laptops, diseñado para mantener tu dispositivo en posición vertical y liberar espacio valioso en tu escritorio. Este soporte es ideal para quienes buscan una solución elegante y funcional para organizar su entorno de trabajo. Con un tamaño de 20 cm de largo por 12 cm de ancho, este estante se adapta fácilmente a cualquier espacio de trabajo sin ocupar demasiado espacio, además, Compatible con una amplia gama de laptops, soportando dispositivos con espesores desde 10 mm hasta 40 mm. Ideal para laptops de diferentes tamaños y marca.",
+        "imagenes": [
+            {
+                "url": "s1.jpg"
+            },
+            {
+                "url": "s12.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Stand tipo 2",
+        "tipo": "Stand",
+        "desc": "Transforma tu espacio de trabajo con este estante de sobremesa multifuncional, diseñado para organizar y optimizar tu escritorio. Perfecto para colocar un monitor, laptop y otros accesorios esenciales, este estante combina funcionalidad y estilo para mejorar tu productividad.",
+        "imagenes": [
+            {
+                "url": "s21.jpg"
+            },
+            {
+                "url": "s22.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "nombre": "Lampara tipo 1",
+        "tipo": "Iluminacion",
+        "desc": "Añade un toque de sofisticación a tu espacio de trabajo con nuestra lámpara de escritorio elegante, diseñada para ofrecerte la iluminación perfecta en cada momento. Su diseño moderno y minimalista se complementa con una funcionalidad excepcional, permitiéndote ajustar el brillo de manera gradual según tus necesidades.",
+        "imagenes": [
+            {
+                "url": "l1.jpg"
+            },
+            {
+                "url": "l12.jpg"
+            }
+        ]
+    }
+]
