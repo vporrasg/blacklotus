@@ -1,7 +1,7 @@
 const main = document.querySelector('#productos');
 
 function cargarProductos() {
-    fetch('../assets/data/productos.json')
+    fetch('assets/data/productos.json')
         .then(respuesta => respuesta.json())
         .then(Productos => {
             Productos.forEach(producto => {
